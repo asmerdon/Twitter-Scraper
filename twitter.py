@@ -15,23 +15,40 @@ driver=webdriver.Chrome()
 
 def login():
     driver.get(login_url)
-    time.sleep(3)
-    driver.find_element("xpath", '//*[@id="layers"]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input').send_keys('theDataDON13')
     time.sleep(2)
+    driver.find_element("xpath", '//*[@id="layers"]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[5]/label/div/div[2]/div/input').send_keys('theDataDON13')
+    time.sleep(1)
     driver.find_element("xpath", '//*[@id="layers"]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[6]/div').click()
     time.sleep(3)
     driver.find_element("xpath", '//*[@id="layers"]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[1]/div/div/div[3]/div/label/div/div[2]/div[1]/input').send_keys('yYzVm2MdYhSQ2FA')
-    time.sleep(2)
+    time.sleep(1)
     driver.find_element("xpath", '//*[@id="layers"]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div[1]/div/div/div/div').click()
-    time.sleep(3)
+    time.sleep(2)
+
+def parse(amount):
+    l = list()
+    o = {}
+    soup = BeautifulSoup(resp, 'html.parser')
+    try:
+        o["username"] = soup.find("div",{"data-testid":"User-Name"}).text
+    except:
+        o["username"] = None
+    try:
+        o["tweet_text"] = soup.find("div",{"data-testid":"tweetText"}).text
+    except:
+        o["tweet_text"] = None
+
+    l.append(o)
+    print(l)    
 
 login()
 driver.get(search_url)
-time.sleep(3)
+time.sleep(5)
 resp = driver.page_source
 driver.close()
+parse(amount)
 
-print(resp)
+
 """l=list()
 o={}
 
