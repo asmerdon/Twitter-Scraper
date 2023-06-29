@@ -59,8 +59,9 @@ def search():
 
     while len(tweet_data) < amount:
         driver.execute_script("window.scrollTo(0, document.documentElement.scrollHeight);")
+        time.sleep(2)
         resp = driver.page_source
-        new_tweets = parse(resp)
+        new_tweets = parse(resp, tweet_data)
         tweet_data.extend(new_tweets)
 
         elapsed_time = time.time() - start_time
@@ -71,7 +72,7 @@ def search():
     return tweet_data[:amount]
 
 # Function to parse tweet HTML and extract relevant information
-def parse(resp):
+def parse(resp, tweet_data):
     soup = BeautifulSoup(resp, 'html.parser')
     tweets = soup.find_all("div", {"data-testid": "cellInnerDiv"})
     result = []
@@ -89,7 +90,8 @@ def parse(resp):
         except AttributeError:
             tweet_info["tweet_text"] = None
 
-        result.append(tweet_info)
+        if not tweet_info["tweet_text"] in tweet_data:
+            result.append(tweet_info)
 
     return result
 
