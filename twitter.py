@@ -1,18 +1,43 @@
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
 import time
+import csv
 
+# Configure Chrome options for headless scraping (no GUI)
+chrome_options = Options()
+chrome_options.add_argument("--headless")  # Ensure GUI is off
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
+
+# Prompt user for search term and amount of tweets
 print("Enter the search term you would like to scrape: ")
 search_term = input()
 print("Enter the amount of tweets you'd like to return: ")
 amount = int(input())
+
+# URLs
 login_url = "https://twitter.com/login"
-search_url = "https://twitter.com/search?q="+str(search_term)+"&src=typed_query"
+search_url = "https://twitter.com/search?q=" + str(search_term) + "&src=typed_query"
 
+# Initialize Chrome driver with the configured options
+driver = webdriver.Chrome(options=chrome_options)
 
-driver=webdriver.Chrome()
+# Function to save tweet data to a CSV file
+def save_to_csv(tweet_data):
+    filename = "tweets.csv"
+    fieldnames = ["username", "tweet_text"]  # Update fieldnames to match dictionary keys
 
+    with open(filename, "w", newline="", encoding="utf-8") as csvfile:
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for tweet in tweet_data:
+            writer.writerow(tweet)  # Write the tweet dictionary directly
+
+    print("Tweet data saved to", filename)
+
+# Function to perform login
 def login():
     driver.get(login_url)
     time.sleep(2)
@@ -25,34 +50,33 @@ def login():
     driver.find_element("xpath", '//*[@id="layers"]/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div[2]/div/div[1]/div/div/div/div').click()
     time.sleep(2)
 
+# Function to perform the search and scrape tweets
 def search():
-    scroll_distance = amount * 1000
     driver.get(search_url)
     time.sleep(5)
-    scroll_height = driver.execute_script("return document.documentElement.scrollHeight")
     start_time = time.time()
-    while scroll_height < scroll_distance:
-        driver.execute_script("window.scrollTo(0, document.documentElement.scrollHeight);")
-        time.sleep(1)
-        new_scroll_height = driver.execute_script("return document.documentElement.scrollHeight")
-        if new_scroll_height == scroll_height:
-            time.sleep(1)
-            elapsed_time = time.time() - start_time
-            if elapsed_time >= 5:
-                break
-        scroll_height = new_scroll_height
-    print("Scroll distance(entered):")
-    print(scroll_distance)
-    print("Scroll height:")
-    print(scroll_height)
-    time.sleep(5)
+    tweet_data = []
 
-def parse(resp, amount):
+    while len(tweet_data) < amount:
+        driver.execute_script("window.scrollTo(0, document.documentElement.scrollHeight);")
+        resp = driver.page_source
+        new_tweets = parse(resp)
+        tweet_data.extend(new_tweets)
+
+        elapsed_time = time.time() - start_time
+        if elapsed_time >= 5:
+            break
+
+    print("Number of tweets found:", len(tweet_data))
+    return tweet_data[:amount]
+
+# Function to parse tweet HTML and extract relevant information
+def parse(resp):
     soup = BeautifulSoup(resp, 'html.parser')
     tweets = soup.find_all("div", {"data-testid": "cellInnerDiv"})
     result = []
 
-    for tweet in tweets[:amount]:
+    for tweet in tweets:
         tweet_info = {}
 
         try:
@@ -67,16 +91,10 @@ def parse(resp, amount):
 
         result.append(tweet_info)
 
-    print("Number of tweets found:", len(tweets))
     return result
 
+# Main program flow
 login()
-search()
-resp = driver.page_source
+tweet_data = search()
 driver.close()
-
-tweet_data = parse(resp, amount)
-for tweet in tweet_data:
-    print("Username:", tweet["username"])
-    print("Tweet text:", tweet["tweet_text"])
-    print("---")
+save_to_csv(tweet_data)
