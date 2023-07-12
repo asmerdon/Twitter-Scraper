@@ -7,9 +7,9 @@ import csv
 
 # Configure Chrome options for headless scraping (no GUI)
 chrome_options = Options()
-chrome_options.add_argument("--headless")  # Ensure GUI is off
+"""chrome_options.add_argument("--headless=new")  # Ensure GUI is off
 chrome_options.add_argument("--no-sandbox")
-chrome_options.add_argument("--disable-dev-shm-usage")
+chrome_options.add_argument("--disable-dev-shm-usage")"""
 
 # Prompt user for search term and amount of tweets
 print("Enter the search term you would like to scrape: ")
@@ -65,7 +65,7 @@ def search():
         tweet_data.extend(new_tweets)
 
         elapsed_time = time.time() - start_time
-        if elapsed_time >= 5:
+        if elapsed_time >= amount/10:
             break
 
     print("Number of tweets found:", len(tweet_data))
