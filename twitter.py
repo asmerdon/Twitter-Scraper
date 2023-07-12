@@ -7,7 +7,9 @@ import csv
 
 # Configure Chrome options for headless scraping (no GUI)
 chrome_options = Options()
-"""chrome_options.add_argument("--headless=new")  # Ensure GUI is off
+
+"""chrome_options.add_argument('window-size=2000x1500')
+chrome_options.add_argument("--headless=new")  # Ensure GUI is off
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")"""
 
@@ -23,6 +25,7 @@ search_url = "https://twitter.com/search?q=" + str(search_term) + "&src=typed_qu
 
 # Initialize Chrome driver with the configured options
 driver = webdriver.Chrome(options=chrome_options)
+#driver = webdriver.Firefox()
 
 # Function to save tweet data to a CSV file
 def save_to_csv(tweet_data):
@@ -59,7 +62,7 @@ def search():
 
     while len(tweet_data) < amount:
         driver.execute_script("window.scrollTo(0, document.documentElement.scrollHeight);")
-        time.sleep(2)
+        time.sleep(1)
         resp = driver.page_source
         new_tweets = parse(resp, tweet_data)
         tweet_data.extend(new_tweets)
