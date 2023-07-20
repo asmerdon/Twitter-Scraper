@@ -30,7 +30,7 @@ driver = webdriver.Chrome(options=chrome_options)
 # Function to save tweet data to a CSV file
 def save_to_csv(tweet_data):
     filename = "tweets.csv"
-    fieldnames = ["username", "tweet_text"]  # Update fieldnames to match dictionary keys
+    fieldnames = ["username", "datetime", "tweet_text"]  # Update fieldnames to match dictionary keys
 
     with open(filename, "w", newline="", encoding="utf-8") as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -87,11 +87,17 @@ def parse(resp, tweet_data):
             tweet_info["username"] = tweet.find("div", {"data-testid": "User-Name"}).text
         except AttributeError:
             tweet_info["username"] = None
+        
+        try:
+            tweet_info["datetime"] = tweet.find("time").get("datetime")  # Extract the "datetime" attribute value
+        except AttributeError:
+            tweet_info["datetime"] = None
 
         try:
             tweet_info["tweet_text"] = tweet.find("div", {"data-testid": "tweetText"}).text
         except AttributeError:
             tweet_info["tweet_text"] = None
+
 
         if not tweet_info["tweet_text"] in tweet_data:
             result.append(tweet_info)
