@@ -1,90 +1,11 @@
-username,datetime,tweet_text,replies
-Dr. Ganapathi Pulipaka @gp_pulipaka·9h,2023-07-26T06:26:01.000Z,"Best YouTube Channels for Data Science! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
-https://geni.us/Best-YouTube-DSci…",2
-Zulfiqar Ahmed @ZulfiqarAhmed69·Jul 22,2023-07-22T19:25:10.000Z,Python is such as an easy language to learn ,21
-Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
+username,datetime,tweet_text,replies,retweets,likes
+Benjamin Bennett Alexander@RealBenjizo·Jul 20,2023-07-20T17:52:22.000Z,"Python Question;
 
-1. Git & GitHub
-http://LearnGitBranching.js.org
-
-2. HTML and CSS
-http://LearnHTMLCSS.online
-
-3. Python
-http://PythonTutorial.net
-
-4. React
-http://React-tutorial.app
-
-5. DS, Algo
-http://Visualgo.net/en
-
-6. JavaScript
-http://Learn-JS.org
-
-7. SQL… Show more",74
-Nikki Siapno@NikkiSiapno·1h,2023-07-26T14:26:04.000Z,"What are the differences between a list and a tuple in Python?
-
-Ace this interview question with this quick 2-minute guide:
-
-Both lists and tuples are data structures in Python that are used to hold sequences of items.
-
-A list is a mutable, dynamic array where elements can be… Show more",5
-Terrifying As Fuck@TerrifyingAsfuk·4h,2023-07-26T10:57:54.000Z,Python trap using live chicken,1
-Refuge@RefugeCharity,,Children living in a refuge can often face a summer of loneliness and isolation. Give them something to make their summer special.,23
-Star Consulting - LLC@zstarconsulting·16h,2023-07-25T23:00:01.000Z,Python libraries & frameworks,
-Python Developer@Python_Dv·2h,2023-07-26T13:00:02.000Z,"Tkinter Designer Tutorial | How to Create Beautiful Python GUI in 10 Minutes
-#python #tkinter",4
-Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5
-,,,
-Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
-
-1. Git & GitHub
-http://LearnGitBranching.js.org
-
-2. HTML and CSS
-http://LearnHTMLCSS.online
-
-3. Python
-http://PythonTutorial.net
-
-4. React
-http://React-tutorial.app
-
-5. DS, Algo
-http://Visualgo.net/en
-
-6. JavaScript
-http://Learn-JS.org
-
-7. SQL… Show more",74
-Nikki Siapno@NikkiSiapno·1h,2023-07-26T14:26:04.000Z,"What are the differences between a list and a tuple in Python?
-
-Ace this interview question with this quick 2-minute guide:
-
-Both lists and tuples are data structures in Python that are used to hold sequences of items.
-
-A list is a mutable, dynamic array where elements can be… Show more",5
-Terrifying As Fuck@TerrifyingAsfuk·4h,2023-07-26T10:57:54.000Z,Python trap using live chicken,1
-Refuge@RefugeCharity,,Children living in a refuge can often face a summer of loneliness and isolation. Give them something to make their summer special.,23
-Star Consulting - LLC@zstarconsulting·16h,2023-07-25T23:00:01.000Z,Python libraries & frameworks,
-Python Developer@Python_Dv·2h,2023-07-26T13:00:02.000Z,"Tkinter Designer Tutorial | How to Create Beautiful Python GUI in 10 Minutes
-#python #tkinter",4
-Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5
-Prima プリマ@primawansatrio·Jul 25,2023-07-25T14:40:45.000Z,Back-end Python job description attached.,3
-PYOFLIFE.COM@Parajulisaroj16·6h,2023-07-26T09:35:57.000Z,"Statistics And Machine Learning we will go back to mathematics and study statistics, and how to calculate important numbers based on data sets.  https://pyoflife.com/download-statistics-and-machine-learning-in-python/…
-#DataScience #Python #programming #DataScientists #MachineLearning #ArtificialIntelligence #coding",2
-NEAR Protocol@NEARProtocol,,"#NEAR takeover at #ETHCC with #BOS! 
-
-Join us at the Museum National D’Histoire Naturelle for two full days of July 16-17th on RUST, Java-SDK and Solidity jamming !
-
-Read more about it here - https://near.org/blog/near-at-ethcc-step-into-the-open-web-on-the-bos/?twclid=2-1oywt1h86nztjqg1bc1kpurag…
-RSVP here: https://bit.ly/3qLjePR?twclid=2-1oywt1h86nztjqg1bc1kpurag",131
-Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2
-Data Science Dojo@DataScienceDojo·Jul 23,2023-07-23T18:04:01.000Z," A list of Python libraries and frameworks!
-Source: data_code_learn
-
-#Python #DataScience",9
+What is the output of this code, and why?",111,147,961
+Rave.@ravingt0n·Jul 21,2023-07-21T19:25:24.000Z,"300 level computer science in a public uni, na biro and paper I use write Python exam. na Python go kill everybody involved aje",557,"4,127",11.2K
+Zulfiqar Ahmed @ZulfiqarAhmed69·Jul 22,2023-07-22T19:25:10.000Z,Python is such as an easy language to learn ,21,65,446
+E.ON Innovation@innovation_eon,,"From @FORESIGHTdk #ForesightDigest: Whether it be #agriculture tech or #solar panels, here's how new techniques are making it possible for us to use land more efficiently 
+#RenewableEnergy #pv #technology #innovation @DTUtweet @AarhusUni_int @SoltecPower",,25,114
 Sharyph@sharyph_·Jul 22,2023-07-22T04:00:02.000Z,"Want to be a Data Analyst in 100 Days?   
 
 Day 1-15:
@@ -106,85 +27,106 @@ Day 76 - 85:
 Presenting Data Models  
 
 Day 86-100:
-Deploying Models",50
-Benjamin Bennett Alexander@RealBenjizo·21h,2023-07-25T17:59:15.000Z,"Python Question;
+Deploying Models",50,575,"1,566"
+Sumanth @Sumanth_077·Jul 25,2023-07-25T14:39:35.000Z,"Neural Network implemented from scratch in Python
 
-Happy Tuesday.
+Here is the step by step explanation with code.
 
-What is the output of this code, and why?",51
-WaQas ViCky@waqasvicky07·19h,2023-07-25T20:07:36.000Z,"Day 11 of my #100DaysOfPython challenge! Today was all about revisiting concepts from the past 10 days. Consolidating knowledge with a fun outcome - crafted my own Blackjack game! Continuous learning feels rewarding. #Python #Coding #Day11 #GameDevelopment
-#100DaysOfCode",2
-MorphMarket@MorphMarket·Jul 23,2023-07-23T14:15:36.000Z,Axanthic (Vpi) Pied Ball Python by Limitless reptiles,1
-Kirk Borne@KirkDBorne·9h,2023-07-26T05:41:06.000Z,"Download 424-page PDF eBook >> “Advanced #DataScience and #Analytics with #Python” at https://library.samdu.uz/files/f2a7ac872bd1e8ab6ab987ba07c0819b_Advanced%20Data%20Science%20and%20%20%20Analytics%20with%20Python.pdf…
-————
-#BigData #MachineLearning #AI #Coding #DataScientists #DataAnalytics",1
-A canary in a coal mine@nashohmy·Jul 24,2023-07-24T09:20:12.000Z,Kuna mtu amesema 70% of the people in that panel think Python is a snake ,19
-Demotivational Speaker@OdunEweniyi·Jul 22,2023-07-22T13:27:29.000Z,lmao hm so we are asking people to pay 122% more to write python on foolscap sheet?,9
-Shalini Tewari@maybeshalini·Jul 24,2023-07-24T12:39:17.000Z,"Complete FullStack Developer Roadmap
-[With Resources To Learn + Jobs]
-Step 1 → Learn HTML CSS and JS
-Step 2 → Learn Git and GitHub
-Step 3 → Learn Frontend Frameworks [React Recommended]
-Step 4 → Learn Nodejs - Python
-Step 5 → Learn Backend Frameworks
-Step 6 → Learn… Show more",84
-Sebastian Sigl@sesigl·5h·,2023-07-26T09:53:57.000Z,"As a developer, you need the best tools to get things done QUICKLY and with high QUALITY.
+Thread",19,276,"1,183"
+Arduino Updates@Arduino24x7·Jul 25,2023-07-25T14:17:47.000Z,"How many can you name?
 
-Here is a tech stack for frontend, backend, DBs, APIs, and learning material for:
+#esp32 #arduino #python #raspberrypi #rpi #nvidia #microcontroller",23,113,633
+Python Developer@Python_Dv·2h,2023-07-26T13:00:02.000Z,"Tkinter Designer Tutorial | How to Create Beautiful Python GUI in 10 Minutes
+#python #tkinter",4,33,117
+Benjamin Bennett Alexander@RealBenjizo·Jul 22,2023-07-22T19:05:14.000Z,"Python Question;
 
- JavaScript
- TypeScript
- Python
- Java
- Rust
- Go (Golang)
- C++
- Ruby
+What is the output of this code, and why?",211,142,874
+,,,,,
+E.ON Innovation@innovation_eon,,"From @FORESIGHTdk #ForesightDigest: Whether it be #agriculture tech or #solar panels, here's how new techniques are making it possible for us to use land more efficiently 
+#RenewableEnergy #pv #technology #innovation @DTUtweet @AarhusUni_int @SoltecPower",,25,114
+Sharyph@sharyph_·Jul 22,2023-07-22T04:00:02.000Z,"Want to be a Data Analyst in 100 Days?   
 
-1/8  JavaScript… Show more",3
-,,,
-Benjamin Bennett Alexander@RealBenjizo·21h,2023-07-25T17:59:15.000Z,"Python Question;
+Day 1-15:
+Maths & Statistics   
 
-Happy Tuesday.
+Day 16-35:
+Excel  
 
-What is the output of this code, and why?",51
-WaQas ViCky@waqasvicky07·19h,2023-07-25T20:07:36.000Z,"Day 11 of my #100DaysOfPython challenge! Today was all about revisiting concepts from the past 10 days. Consolidating knowledge with a fun outcome - crafted my own Blackjack game! Continuous learning feels rewarding. #Python #Coding #Day11 #GameDevelopment
-#100DaysOfCode",2
-MorphMarket@MorphMarket·Jul 23,2023-07-23T14:15:36.000Z,Axanthic (Vpi) Pied Ball Python by Limitless reptiles,1
-Kirk Borne@KirkDBorne·9h,2023-07-26T05:41:06.000Z,"Download 424-page PDF eBook >> “Advanced #DataScience and #Analytics with #Python” at https://library.samdu.uz/files/f2a7ac872bd1e8ab6ab987ba07c0819b_Advanced%20Data%20Science%20and%20%20%20Analytics%20with%20Python.pdf…
-————
-#BigData #MachineLearning #AI #Coding #DataScientists #DataAnalytics",1
-A canary in a coal mine@nashohmy·Jul 24,2023-07-24T09:20:12.000Z,Kuna mtu amesema 70% of the people in that panel think Python is a snake ,19
-Demotivational Speaker@OdunEweniyi·Jul 22,2023-07-22T13:27:29.000Z,lmao hm so we are asking people to pay 122% more to write python on foolscap sheet?,9
-Shalini Tewari@maybeshalini·Jul 24,2023-07-24T12:39:17.000Z,"Complete FullStack Developer Roadmap
-[With Resources To Learn + Jobs]
-Step 1 → Learn HTML CSS and JS
-Step 2 → Learn Git and GitHub
-Step 3 → Learn Frontend Frameworks [React Recommended]
-Step 4 → Learn Nodejs - Python
-Step 5 → Learn Backend Frameworks
-Step 6 → Learn… Show more",84
-Sebastian Sigl@sesigl·5h·,2023-07-26T09:53:57.000Z,"As a developer, you need the best tools to get things done QUICKLY and with high QUALITY.
+Day 36-46:
+SQL  
 
-Here is a tech stack for frontend, backend, DBs, APIs, and learning material for:
+Day 47-60:
+Python/Data Cleaning  
 
- JavaScript
- TypeScript
- Python
- Java
- Rust
- Go (Golang)
- C++
- Ruby
+Day 61-75:
+Data Analysis and Cleaning  
 
-1/8  JavaScript… Show more",3
-파이썬@Python_95·3h,2023-07-26T12:29:35.000Z,행복하세여~,1
-Michael Warburton@MichaelWarbur17·Jul 22,2023-07-22T19:07:49.000Z,"“Alright, we’ll call it a draw.”
+Day 76 - 85:
+Presenting Data Models  
 
-MONTY PYTHON AND THE HOLY GRAIL (1975)
+Day 86-100:
+Deploying Models",50,575,"1,566"
+Sumanth @Sumanth_077·Jul 25,2023-07-25T14:39:35.000Z,"Neural Network implemented from scratch in Python
 
-#JohnCleese #GrahamChapman",40
-xpression camera@xpression_app,,"The only real-time generative AI app for video chatting, live streaming, and video creation.",696
+Here is the step by step explanation with code.
+
+Thread",19,276,"1,183"
+Arduino Updates@Arduino24x7·Jul 25,2023-07-25T14:17:47.000Z,"How many can you name?
+
+#esp32 #arduino #python #raspberrypi #rpi #nvidia #microcontroller",23,113,633
+Python Developer@Python_Dv·2h,2023-07-26T13:00:02.000Z,"Tkinter Designer Tutorial | How to Create Beautiful Python GUI in 10 Minutes
+#python #tkinter",4,33,117
+Benjamin Bennett Alexander@RealBenjizo·Jul 22,2023-07-22T19:05:14.000Z,"Python Question;
+
+What is the output of this code, and why?",211,142,874
+Dragon Fat Deposits@LichQueenST·Jul 20,2023-07-20T16:40:12.000Z,/!\ Windows has blocked an Unauthorized Python executable.,2,8,35
+Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
+
+1. Git & GitHub
+http://LearnGitBranching.js.org
+
+2. HTML and CSS
+http://LearnHTMLCSS.online
+
+3. Python
+http://PythonTutorial.net
+
+4. React
+http://React-tutorial.app
+
+5. DS, Algo
+http://Visualgo.net/en
+
+6. JavaScript
+http://Learn-JS.org
+
+7. SQL… Show more",74,"1,152","2,633"
+NEAR Protocol@NEARProtocol,,"Say hello to the BOS  
+
+Saluda al BOS
+
+Nói lời chào với BOS
+
+BOS에게 인사하기
+
+Передайте привет БОС
+
+--
+The Blockchain Operating System is for everyone.
+
+Heading to #Consensus2023? Find out more about it and what it means for #Web3 
+https://near.org/consensus?twclid=2yaqwhni3j9tma92yzap3foj1",113,544,"5,232"
+Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5,458,"1,741"
+PYOFLIFE.COM@Parajulisaroj16·6h,2023-07-26T09:35:57.000Z,"Statistics And Machine Learning we will go back to mathematics and study statistics, and how to calculate important numbers based on data sets.  https://pyoflife.com/download-statistics-and-machine-learning-in-python/…
+#DataScience #Python #programming #DataScientists #MachineLearning #ArtificialIntelligence #coding",2,22,120
+Benjamin Bennett Alexander@RealBenjizo·Jul 21,2023-07-21T18:02:37.000Z,"Python Question;
+
+Another function to wrap up the week 
+
+Be very careful with this one.
+
+What is the output of this code, and why?",56,52,417
+Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2,12,127
 Python Space@python_spaces·22h,2023-07-25T16:52:55.000Z,"Learn for FREE in 2023!
 
 1. Python
@@ -203,97 +145,307 @@ http://atlassian.com/git/tutorials
 http://w3schools.com
 
 6. CSS
-http://css-tricks.com",6
-Rodrigo @mathsppblog·4h,2023-07-26T10:43:57.000Z,"I didn't expect this!
+http://css-tricks.com",6,287,710
+Benjamin Bennett Alexander@RealBenjizo·21h,2023-07-25T17:59:15.000Z,"Python Question;
 
-Cheeky Python ",13
-GREAT BIAFRA V-I-P@GREATBIAFRAVIP·Jul 19,2023-07-19T19:51:04.000Z,"OKU DI OVER    
+Happy Tuesday.
 
-53 PYTHON HAVE BEEN SENT TO JUDGMENT IN BIAFRALAND. OPERATION PYTHON MUST GO TO JUDGEMENT. OSETIGO ",
+What is the output of this code, and why?",51,51,373
+Coach•Ayobami || DataFestAfrica2023@ayo_purity·Jul 21,2023-07-21T07:53:33.000Z,"Are you an aspiring DATA ANALYST or PYTHON BACKEND DEVELOPERS
+
+Google, IBM and Harvard University are sponsoring FREE COURSES for PYTHON
+
+This include FREE COURSE ON PYTHON BASICS for DATA ANALYSIS amongst others 
+
+Thread 
+
+Please RT for others 2c",10,300,697
+TheCyberChef| Cybersecurity | Educator@IamTheCyberChef·Jul 24,2023-07-24T21:33:38.000Z,"Your first entry-level job as a beginner in CYBERSECURITY 
+
+Cert
+Network+
+
+Basic Skills
+Python, Linux, Packet Analysis, Active Directory 
+
+Apply
+Tech Support, Network/Systems Administrator
+
+Gain +6months experience
+
+Get Security+, CySA+ OR BTL1
+
+Finally, apply for security roles",6,184,812
+Nilofer @Nilofer_tweets·Jul 24,2023-07-24T17:23:34.000Z,"Free MIT Certification Courses!
+
+MIT is offering certification courses in below subjects: 
+- Python 
+- Data Science 
+- ML
+- Data Analysis
+- Startup success 
+- Software development 
+
+A Thread ",18,394,"1,228"
+Daily Video Game Weapon Reloads@ReloadWeaponDay·8h,2023-07-26T07:00:00.000Z,"Day 621 - July 26th, 2023 - Python from Call of Duty Black Ops",12,49,443
+,,,,,
+Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2,12,127
+Python Space@python_spaces·22h,2023-07-25T16:52:55.000Z,"Learn for FREE in 2023!
+
+1. Python
+http://pythontutorial.net
+
+2. JavaScript
+http://learnjavascript.online
+
+3. SQL
+http://sqlbolt.com
+
+4. Git
+http://atlassian.com/git/tutorials
+
+5. HTML
+http://w3schools.com
+
+6. CSS
+http://css-tricks.com",6,287,710
+Benjamin Bennett Alexander@RealBenjizo·21h,2023-07-25T17:59:15.000Z,"Python Question;
+
+Happy Tuesday.
+
+What is the output of this code, and why?",51,51,373
+Coach•Ayobami || DataFestAfrica2023@ayo_purity·Jul 21,2023-07-21T07:53:33.000Z,"Are you an aspiring DATA ANALYST or PYTHON BACKEND DEVELOPERS
+
+Google, IBM and Harvard University are sponsoring FREE COURSES for PYTHON
+
+This include FREE COURSE ON PYTHON BASICS for DATA ANALYSIS amongst others 
+
+Thread 
+
+Please RT for others 2c",10,300,697
+TheCyberChef| Cybersecurity | Educator@IamTheCyberChef·Jul 24,2023-07-24T21:33:38.000Z,"Your first entry-level job as a beginner in CYBERSECURITY 
+
+Cert
+Network+
+
+Basic Skills
+Python, Linux, Packet Analysis, Active Directory 
+
+Apply
+Tech Support, Network/Systems Administrator
+
+Gain +6months experience
+
+Get Security+, CySA+ OR BTL1
+
+Finally, apply for security roles",6,184,812
+Nilofer @Nilofer_tweets·Jul 24,2023-07-24T17:23:34.000Z,"Free MIT Certification Courses!
+
+MIT is offering certification courses in below subjects: 
+- Python 
+- Data Science 
+- ML
+- Data Analysis
+- Startup success 
+- Software development 
+
+A Thread ",18,394,"1,228"
+Daily Video Game Weapon Reloads@ReloadWeaponDay·8h,2023-07-26T07:00:00.000Z,"Day 621 - July 26th, 2023 - Python from Call of Duty Black Ops",12,49,443
+Akshay @akshay_pachaar·Jul 20,2023-07-20T12:30:42.000Z,"No model has ever beaten 91% accuracy on ImageNet!
+
+Because this dataset has over 100,000 mislabeled images.
+
+Folks at MIT have released a tool that automatically detects such issues to help you clean any dataset 
+
+Introducing Cleanlab 
+
+A confident learning based Python… Show more",19,223,781
+Vikas Rajput@vikasrajputin·Jul 21,2023-07-21T04:28:00.000Z,"SOLID principle is one of the most important design principles in OOP languages like Java, Python, C#, etc.
+
+Sadly, most of the programmers find it super difficult to understand.
+
+Here's the simplest guide to understand SOLID principles:",54,559,"2,427"
+NEAR Protocol@NEARProtocol,,"Did you know you can build frontends on #NEAR's Blockchain Operating System for dApps on almost any blockchain?
+
+Check out the live demo of @LidoFinance  at #Consensus2023 with @thisisjoshford from @PagodaPlatform!
+
+Loved it?! Catch it in full:
+
+https://consensus.coindesk.com/agenda/event/-nears-decentralized-front-ends-293?twclid=2-49dc2pea9qmxwoqpofwz0fuj…",126,436,"4,900"
+Swapna Kumar Panda@swapnakpanda·3h,2023-07-26T12:01:24.000Z,"Best YouTube channels for Data Science
+
+❯ Python ➟ Corey Schafer
+❯ SQL ➟ Joey Blue
+❯ Data Analyst ➟ AlexTheAnalyst
+❯ ML, DL ➟ sentdex
+❯ Mathematics ➟ 3Blue1Brown
+❯ Statistics ➟ statquest
+❯ Tableau ➟ Tableau Tim
+❯ PowerBI ➟ Guy in a Cube
+❯ MS Excel ➟ ExcelIsFun",8,133,415
 Michael Warburton@MichaelWarbur17·Jul 24,2023-07-24T15:48:55.000Z,"“Knights Of The Round Table” 
 
-MONTY PYTHON AND THE HOLY GRAIL (1975)",6
-BookTrust@Booktrust,,Disadvantaged children are growing up without books of their very own. Without books that they can love and cherish. And without a favourite bedtime story that they want to read again and again.  Become a BookTrust Friend and help us reach more children with the magic of reading.,44
-Python Coding@clcoding·Jul 23,2023-07-23T10:57:00.000Z,Mathematical functions using Python,9
-Vikas Rajput@vikasrajputin·Jul 21,2023-07-21T04:28:00.000Z,"SOLID principle is one of the most important design principles in OOP languages like Java, Python, C#, etc.
+MONTY PYTHON AND THE HOLY GRAIL (1975)",6,106,593
+Michael Warburton@MichaelWarbur17·Jul 22,2023-07-22T19:07:49.000Z,"“Alright, we’ll call it a draw.”
 
-Sadly, most of the programmers find it super difficult to understand.
+MONTY PYTHON AND THE HOLY GRAIL (1975)
 
-Here's the simplest guide to understand SOLID principles:",54
-Coach•Ayobami || DataFestAfrica2023@ayo_purity·Jul 21,2023-07-21T07:53:33.000Z,"Are you an aspiring DATA ANALYST or PYTHON BACKEND DEVELOPERS
+#JohnCleese #GrahamChapman",40,364,"1,810"
+Kirk Borne@KirkDBorne·9h,2023-07-26T05:52:05.000Z,"Download 56-page PDF >> “Data Visualization in #Python Quick and Easy” at https://pyoflife.com/data-visualisation-in-python-quick-and-easy-pdf/… via @Parajulisaroj16
+———
+#DataViz #Coding #DataScience #DataScientists #DataStorytelling #VisualAnalytics #Analytics",,32,137
+MorphMarket@MorphMarket·Jul 23,2023-07-23T14:15:36.000Z,Axanthic (Vpi) Pied Ball Python by Limitless reptiles,1,18,178
+Kirk Borne@KirkDBorne·9h,2023-07-26T05:54:04.000Z,Download 157-page PDF >> “Introduction to Scientific Programming with #Python” at https://pyoflife.com/introduction-to-scientific-programming-with-python-pdf/… via @Parajulisaroj16,,121,469
+HarizSharif@MHarizSharif·Jul 23,2023-07-23T07:21:09.000Z,"Python or Power bi is not apple to apple comparison
 
-Google, IBM and Harvard University are sponsoring FREE COURSES for PYTHON
+Python is programming language
 
-This include FREE COURSE ON PYTHON BASICS for DATA ANALYSIS amongst others 
+Power BI is visualization tool
 
-Thread 
+So kena decide language dan visualization tools apa yang nak dipakai.
 
-Please RT for others 2c",10
-Daily Video Game Weapon Reloads@ReloadWeaponDay·8h,2023-07-26T07:00:00.000Z,"Day 621 - July 26th, 2023 - Python from Call of Duty Black Ops",12
-Kirk Borne@KirkDBorne·9h,2023-07-26T05:54:04.000Z,Download 157-page PDF >> “Introduction to Scientific Programming with #Python” at https://pyoflife.com/introduction-to-scientific-programming-with-python-pdf/… via @Parajulisaroj16,
-TheCyberChef| Cybersecurity | Educator@IamTheCyberChef·Jul 24,2023-07-24T21:33:38.000Z,"Your first entry-level job as a beginner in CYBERSECURITY 
+For me better master Power BI dulu sebab tak banyak pun industry nak guna python. Ada yang… Show more",5,45,179
+Python Programming@PythonPr·Jul 25,2023-07-25T09:10:00.000Z,"Face Detection In Python Using OpenCV
+#python #opencv",1,122,415
+Sebastian Sigl@sesigl·5h·,2023-07-26T09:53:57.000Z,"As a developer, you need the best tools to get things done QUICKLY and with high QUALITY.
 
-Cert
-Network+
+Here is a tech stack for frontend, backend, DBs, APIs, and learning material for:
 
-Basic Skills
-Python, Linux, Packet Analysis, Active Directory 
+ JavaScript
+ TypeScript
+ Python
+ Java
+ Rust
+ Go (Golang)
+ C++
+ Ruby
 
-Apply
-Tech Support, Network/Systems Administrator
+1/8  JavaScript… Show more",3,11,35
+Python Developer@Python_Dv·Jul 25,2023-07-25T09:34:02.000Z,"How to Avoid These Common Python Mistakes
+#python",,46,153
+Python Space@python_spaces·Jul 23,2023-07-23T13:21:27.000Z,"Learn Data Structures and Algorithms in Python for FREE!
 
-Gain +6months experience
+Course link ",1,133,382
+Daniel D. Gutierrez@AMULETAnalytics·Jul 24,2023-07-24T02:22:35.000Z,Just received… a great new title for data scientists transitioning from R to Python! Use along with #GPT4 #datascience #python #rstats #dataanalysis,10,182,"1,018"
+Python Developer@Python_Dv·8h,2023-07-26T06:52:51.000Z,"Web Scraping and Image Downloading with Python
+#python",,47,160
+,,,,,
+HarizSharif@MHarizSharif·Jul 23,2023-07-23T07:21:09.000Z,"Python or Power bi is not apple to apple comparison
 
-Get Security+, CySA+ OR BTL1
+Python is programming language
 
-Finally, apply for security roles",6
+Power BI is visualization tool
+
+So kena decide language dan visualization tools apa yang nak dipakai.
+
+For me better master Power BI dulu sebab tak banyak pun industry nak guna python. Ada yang… Show more",5,45,179
+Python Programming@PythonPr·Jul 25,2023-07-25T09:10:00.000Z,"Face Detection In Python Using OpenCV
+#python #opencv",1,122,415
+Sebastian Sigl@sesigl·5h·,2023-07-26T09:53:57.000Z,"As a developer, you need the best tools to get things done QUICKLY and with high QUALITY.
+
+Here is a tech stack for frontend, backend, DBs, APIs, and learning material for:
+
+ JavaScript
+ TypeScript
+ Python
+ Java
+ Rust
+ Go (Golang)
+ C++
+ Ruby
+
+1/8  JavaScript… Show more",3,11,35
+Python Developer@Python_Dv·Jul 25,2023-07-25T09:34:02.000Z,"How to Avoid These Common Python Mistakes
+#python",,46,153
+Python Space@python_spaces·Jul 23,2023-07-23T13:21:27.000Z,"Learn Data Structures and Algorithms in Python for FREE!
+
+Course link ",1,133,382
+Daniel D. Gutierrez@AMULETAnalytics·Jul 24,2023-07-24T02:22:35.000Z,Just received… a great new title for data scientists transitioning from R to Python! Use along with #GPT4 #datascience #python #rstats #dataanalysis,10,182,"1,018"
+Python Developer@Python_Dv·8h,2023-07-26T06:52:51.000Z,"Web Scraping and Image Downloading with Python
+#python",,47,160
 Michael Warburton@MichaelWarbur17·Jul 23,2023-07-23T08:56:21.000Z,"“I told you. We're an anarcho-syndicalist commune.”
 
 MONTY PYTHON AND THE HOLY GRAIL (1975) 
 
-#GrahamChapman #MichaelPalin #TerryJones",11
-Laguma Toemak@laguma228·Jul 25,2023-07-25T14:48:17.000Z,"We learn about dictionary in python... Dictionary is used to the collection of data in key:values pairs..is a collection which is ordered, changeable and don not allow duplicate..they are written in curly bracket and have keys and value",
-,,,
-Python Coding@clcoding·Jul 23,2023-07-23T10:57:00.000Z,Mathematical functions using Python,9
-Vikas Rajput@vikasrajputin·Jul 21,2023-07-21T04:28:00.000Z,"SOLID principle is one of the most important design principles in OOP languages like Java, Python, C#, etc.
+#GrahamChapman #MichaelPalin #TerryJones",11,88,352
+Alamin@iam_chonchol·Jul 20,2023-07-20T07:16:34.000Z,"Google is offering free online courses with certification.
 
-Sadly, most of the programmers find it super difficult to understand.
+Here are 12 FREE Google courses to become skilled in 2023 [ Thread ]:
 
-Here's the simplest guide to understand SOLID principles:",54
-Coach•Ayobami || DataFestAfrica2023@ayo_purity·Jul 21,2023-07-21T07:53:33.000Z,"Are you an aspiring DATA ANALYST or PYTHON BACKEND DEVELOPERS
+1. Data Science with Python.
+http://simplilearn.com/getting-started-data-science-with-python-skillup…
 
-Google, IBM and Harvard University are sponsoring FREE COURSES for PYTHON
+2. Basics of Machine Learning.
+http://learndigital.withgoogle.com/digitalunlocked/course/data-science-foundations…
 
-This include FREE COURSE ON PYTHON BASICS for DATA ANALYSIS amongst others 
+3. Machine Learning Crash Course.… Show more",32,734,"1,885"
+DailyStuff@DailyStuffMag,,People living in these cities would leave if they could. These are the most miserable cities in the country.,70,48,96
+Python Programming@PythonPr·8h,2023-07-26T06:49:18.000Z,"How To Use ChatGPT To Fully Automate Web Scraping
+#python #chatgpt #openai",3,73,243
+Michael Asiedu@MichaelAsiedu_·Jul 22,2023-07-22T17:44:00.000Z,"Your coding skills are not enough. You have to be able to sell yourself 
 
-Thread 
+The best “coders” are not the most successful 
 
-Please RT for others 2c",10
-Daily Video Game Weapon Reloads@ReloadWeaponDay·8h,2023-07-26T07:00:00.000Z,"Day 621 - July 26th, 2023 - Python from Call of Duty Black Ops",12
-Kirk Borne@KirkDBorne·9h,2023-07-26T05:54:04.000Z,Download 157-page PDF >> “Introduction to Scientific Programming with #Python” at https://pyoflife.com/introduction-to-scientific-programming-with-python-pdf/… via @Parajulisaroj16,
-TheCyberChef| Cybersecurity | Educator@IamTheCyberChef·Jul 24,2023-07-24T21:33:38.000Z,"Your first entry-level job as a beginner in CYBERSECURITY 
+5M+ people know Python and JavaScript. 
 
-Cert
-Network+
+What makes you different?  Answer that and you will make a ton of money",4,13,47
+PYOFLIFE.COM@Parajulisaroj16·23h,2023-07-25T15:58:37.000Z,"Python, with its diverse libraries and frameworks, has become one of the most popular programming languages for data visualization. https://pyoflife.com/beginning-python-visualization-crafting-visual-transformation-scripts/…
+#DataScience #Python #datavisualization #DataScientists #DataAnalytics #pythonprogramming #Coding",,34,146
+Tom | Data Mentor@TomMitchellData·7h,2023-07-26T07:57:03.000Z,"Data Science and Python are a match made in heaven.
 
-Basic Skills
-Python, Linux, Packet Analysis, Active Directory 
+But there are over 137,000 Python libraries to choose from. 
 
-Apply
-Tech Support, Network/Systems Administrator
+Here are 8 you will use the most as a Data Scientist:",3,67,326
+K H O L O U D (!fattem)@Kholoudxs55kh·13h,2023-07-26T02:02:06.000Z,"Started from "" 21. Let's draw it"" Task in #ALX, Now here :D  well, python is my favourite these days :))) ",3,2,15
+Afiz @itsafiz·Jul 21,2023-07-21T12:13:10.000Z,"The weekend is here! Learn something new. 
 
-Gain +6months experience
+Google is offering top courses in below subjects for FREE!
 
-Get Security+, CySA+ OR BTL1
+- Python  
+- Java Script 
+- Data Science 
+- Machine Learning 
+ - Cloud
 
-Finally, apply for security roles",6
-Michael Warburton@MichaelWarbur17·Jul 23,2023-07-23T08:56:21.000Z,"“I told you. We're an anarcho-syndicalist commune.”
+100% FREE
 
-MONTY PYTHON AND THE HOLY GRAIL (1975) 
+A Thread ",19,430,"1,224"
+Michael Warburton@MichaelWarbur17·Jul 25,2023-07-25T13:38:13.000Z,"“The Funniest Joke In The World”
 
-#GrahamChapman #MichaelPalin #TerryJones",11
-Laguma Toemak@laguma228·Jul 25,2023-07-25T14:48:17.000Z,"We learn about dictionary in python... Dictionary is used to the collection of data in key:values pairs..is a collection which is ordered, changeable and don not allow duplicate..they are written in curly bracket and have keys and value",
-CyberPatron@CyberPatronmc·3h,2023-07-26T12:00:06.000Z,"PenTest skills &certification roadmap
+MONTY PYTHON’S FLYING CIRCUS (1971)
+
+To think this stuff was free on television and just one part of BBC comedy programming.
+
+Fast forward to now.",5,74,276
+Benjamin Bennett Alexander@RealBenjizo·Jul 24,2023-07-24T17:38:09.000Z,"Python Question;
+
+Happy Monday. Have a productive week, everyone.
+
+What is the output of this code, and why?",31,53,345
+Machine Learning Community @c4ml_·Jul 24,2023-07-24T07:19:52.000Z,"Python Data Structures Cheat Sheet that will 10x your learning rate
+
+Save this for later: ",1,33,168
+Python Coding@clcoding·Jul 21,2023-07-21T15:56:03.000Z,Python libraries used for nuclear physics,9,157,775
+Python Programming@PythonPr·Jul 24,2023-07-24T15:46:52.000Z,"How to Send Text Message (SMS) with Python to Phone Number
+#python",1,223,705
+"Paulius ✦ (AI, Web3)@0xPaulius·3h·",2023-07-26T12:38:15.000Z,"Build AI apps with ZERO code?
+
+Quit that Python Course
+
+This is for you ↓
+
+15 No Code tools to build powerful AI apps
+
+And validate your MVP in DAYS - not weeks
+
+WITHOUT a single line of code
+
+Here's the new NoCode AI Tech Stack:
+
+◉ AI Chatbots 
+➤ Dante AI (easy)
+➤ ChatSimple… Show more",12,4,28
+TheCyberChef| Cybersecurity | Educator@IamTheCyberChef·18h,2023-07-25T20:50:14.000Z,"PenTest skills & certification roadmap
 
 Entry-Level Certs
 CompTIA Network+, Security+
@@ -311,114 +463,89 @@ eJPT, PNPT
 
 Gain 2+ years of experience 
 
-Finally, get your OSCP
+Finally, get your OSCP",3,79,354
+,,,,,
+Benjamin Bennett Alexander@RealBenjizo·Jul 24,2023-07-24T17:38:09.000Z,"Python Question;
 
-BIG WIN!!",3
-Alamin@iam_chonchol·Jul 20,2023-07-20T07:16:34.000Z,"Google is offering free online courses with certification.
+Happy Monday. Have a productive week, everyone.
 
-Here are 12 FREE Google courses to become skilled in 2023 [ Thread ]:
+What is the output of this code, and why?",31,53,345
+Machine Learning Community @c4ml_·Jul 24,2023-07-24T07:19:52.000Z,"Python Data Structures Cheat Sheet that will 10x your learning rate
 
-1. Data Science with Python.
-http://simplilearn.com/getting-started-data-science-with-python-skillup…
+Save this for later: ",1,33,168
+Python Coding@clcoding·Jul 21,2023-07-21T15:56:03.000Z,Python libraries used for nuclear physics,9,157,775
+Python Programming@PythonPr·Jul 24,2023-07-24T15:46:52.000Z,"How to Send Text Message (SMS) with Python to Phone Number
+#python",1,223,705
+"Paulius ✦ (AI, Web3)@0xPaulius·3h·",2023-07-26T12:38:15.000Z,"Build AI apps with ZERO code?
 
-2. Basics of Machine Learning.
-http://learndigital.withgoogle.com/digitalunlocked/course/data-science-foundations…
+Quit that Python Course
 
-3. Machine Learning Crash Course.… Show more",32
-xpression camera@xpression_app,,"The only real-time generative AI app for video chatting, live streaming, and video creation.",701
-Kirk Borne@KirkDBorne·9h,2023-07-26T05:52:05.000Z,"Download 56-page PDF >> “Data Visualization in #Python Quick and Easy” at https://pyoflife.com/data-visualisation-in-python-quick-and-easy-pdf/… via @Parajulisaroj16
-———
-#DataViz #Coding #DataScience #DataScientists #DataStorytelling #VisualAnalytics #Analytics",
-Joshua@CreeCoder·19h,2023-07-25T20:31:29.000Z,"Day 99 of #100DaysOfCode   
+This is for you ↓
 
-Code Wars!
-Language: Python 
-Level: 8 kyu
+15 No Code tools to build powerful AI apps
 
- Complete the solution so that it reverses the string passed into it.
+And validate your MVP in DAYS - not weeks
 
-'world'  =>  'dlrow'
-'word'   =>  'drow'",14
-Nilofer @Nilofer_tweets·Jul 24,2023-07-24T17:23:34.000Z,"Free MIT Certification Courses!
+WITHOUT a single line of code
 
-MIT is offering certification courses in below subjects: 
-- Python 
-- Data Science 
-- ML
-- Data Analysis
-- Startup success 
-- Software development 
+Here's the new NoCode AI Tech Stack:
 
-A Thread ",18
-Carol | Software Engineer@code_carol·17h,2023-07-25T21:53:55.000Z,Day 47 of #100DaysOfCode Learned more about binary search algorithms & implemented in Python. Still pushing through the Codecademy course to reach more advanced topics. Binary search finds elements in log(n) time by repeatedly halving the search space. Pretty cool optimization!,27
+◉ AI Chatbots 
+➤ Dante AI (easy)
+➤ ChatSimple… Show more",12,4,28
+TheCyberChef| Cybersecurity | Educator@IamTheCyberChef·18h,2023-07-25T20:50:14.000Z,"PenTest skills & certification roadmap
+
+Entry-Level Certs
+CompTIA Network+, Security+
+
+Skills
+Linux, Python, Active Directory
+
+Tools
+Nmap, Burp Suite, Metasploit 
+
+Get entry-level job
+
+Intermediate Cert
+eJPT, PNPT
+
+Gain 2+ years of experience 
+
+Finally, get your OSCP",3,79,354
 Usman Khan@JKDubai1·3h,2023-07-26T11:59:53.000Z,"18 feet Burmese python ate 5 feet long alligator.
 
-#Aligator",4
-Python Space@python_spaces·Jul 23,2023-07-23T13:21:27.000Z,"Learn Data Structures and Algorithms in Python for FREE!
+#Aligator",4,2,7
+Python Programming@PythonPr·Jul 24,2023-07-24T22:00:01.000Z,"Drone Programming With Python Course | 3 Hours | Including x4 Projects
+#python",2,241,698
+HippoReport@hippo_report,,Some pretty big names in Hollywood today started out as nothing more than just cameos in music videos,,,1
+Segun@OxSegun·Jul 20,2023-07-20T03:11:35.000Z,"C, Shell, Python.
+Such a fun journey. Learning something new every other day.
 
-Course link ",1
-Python Coding@clcoding·Jul 23,2023-07-23T15:26:32.000Z,Day 159 : Voice Recorder using Python https://youtu.be/BlNY7ZFrwpg,5
-Benjamin Bennett Alexander@RealBenjizo·Jul 24,2023-07-24T17:38:09.000Z,"Python Question;
+Apart from the fact that there is money in this tech  I personally find so much fun in learning how to actually build stuff. 
 
-Happy Monday. Have a productive week, everyone.
+Finally seeing how OOP with python works and how I can use it. Sweetest!",14,23,255
+Iano Njuguna@IanoNjuguna·Jul 24,2023-07-24T00:00:13.000Z,"Backend web developer roadmap 
 
-What is the output of this code, and why?",31
+Day 1: Learn Python
+
+Day 2: Learn SQL
+
+Day 3: Build DataBase
+
+Day 4: Learn AI
+
+Day 5: Learn Git and GitHub
+
+Day 6: Build Projects
+
+Day 7: Learn Django
+
+Day 8: Learn Flask
+
+Day 9: Build projects
+
+Day 10: Wake Up From Slumber",22,41,149
 Python Space@python_spaces·Jul 24,2023-07-24T13:24:17.000Z,"Python Data Structures Cheat Sheet  
 
-Save it for later, it comes very handy! ",2
-Python Space@python_spaces·Jul 24,2023-07-24T17:04:17.000Z,"Automate your Machine Learning workflows using Python library pycaret! 
-
-Code ",1
-AlphaFo𝕏@Alphafox78·Jul 20,2023-07-20T01:51:08.000Z,What's your favorite Monty Python and the search for the holy grail line?,855
-Python Programming@PythonPr·8h,2023-07-26T06:49:18.000Z,"How To Use ChatGPT To Fully Automate Web Scraping
-#python #chatgpt #openai",3
-,,,
-Python Coding@clcoding·Jul 23,2023-07-23T15:26:32.000Z,Day 159 : Voice Recorder using Python https://youtu.be/BlNY7ZFrwpg,5
-Benjamin Bennett Alexander@RealBenjizo·Jul 24,2023-07-24T17:38:09.000Z,"Python Question;
-
-Happy Monday. Have a productive week, everyone.
-
-What is the output of this code, and why?",31
-Python Space@python_spaces·Jul 24,2023-07-24T13:24:17.000Z,"Python Data Structures Cheat Sheet  
-
-Save it for later, it comes very handy! ",2
-Python Space@python_spaces·Jul 24,2023-07-24T17:04:17.000Z,"Automate your Machine Learning workflows using Python library pycaret! 
-
-Code ",1
-AlphaFo𝕏@Alphafox78·Jul 20,2023-07-20T01:51:08.000Z,What's your favorite Monty Python and the search for the holy grail line?,855
-Python Programming@PythonPr·8h,2023-07-26T06:49:18.000Z,"How To Use ChatGPT To Fully Automate Web Scraping
-#python #chatgpt #openai",3
-gbae the app developer@daboigbae·Jul 25,2023-07-25T01:04:35.000Z,"As a programmer, here's my roadmap to become a dev in 2023:
-
- HTML & CSS 
- TailWind 
- JavaScript 
- Node 
- React 
- Next 
- React Native 
- TypeScript 
- Python",28
-Daniel D. Gutierrez@AMULETAnalytics·Jul 24,2023-07-24T02:22:35.000Z,Just received… a great new title for data scientists transitioning from R to Python! Use along with #GPT4 #datascience #python #rstats #dataanalysis,10
-HippoReport@hippo_report,,"Before Oscar parties and red carpets, these A-listers needed to pay the bills.",2
-ex nihilo@flex_nihilo·Jul 24,2023-07-24T01:41:06.000Z,the guy at work who can't write a single lick of R or python code got awarded his masters in analytics the other day...,33
-Python Space@python_spaces·Jul 25,2023-07-25T02:48:58.000Z,"Train Machine Learning Models without ML skills!
-
-Using Document AI workbench by @googlecloud you can train the models using Python and Java skills. 
-
-More details ",1
-Afiz @itsafiz·Jul 21,2023-07-21T12:13:10.000Z,"The weekend is here! Learn something new. 
-
-Google is offering top courses in below subjects for FREE!
-
-- Python  
-- Java Script 
-- Data Science 
-- Machine Learning 
- - Cloud
-
-100% FREE
-
-A Thread ",19
-Python Programming@PythonPr·Jul 25,2023-07-25T09:10:00.000Z,"Face Detection In Python Using OpenCV
-#python #opencv",1
+Save it for later, it comes very handy! ",2,124,440
+A canary in a coal mine@nashohmy·Jul 24,2023-07-24T09:20:12.000Z,Kuna mtu amesema 70% of the people in that panel think Python is a snake ,19,197,607
