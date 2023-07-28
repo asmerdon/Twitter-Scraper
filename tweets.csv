@@ -1,351 +1,404 @@
-username,datetime,tweet_text
-Alif Hossain@alifcoder·Jul 16,2023-07-16T07:19:53.000Z,"Complete PYTHON Roadmap:
+username,datetime,tweet_text,replies,retweets,likes
+Python Coding@clcoding·9h,2023-07-27T05:20:00.000Z,Python program for Image to pencil sketch using Python,,105,531
+Dr. Ganapathi Pulipaka @gp_pulipaka·Jul 26,2023-07-26T06:26:01.000Z,"Best YouTube Channels for Data Science! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://geni.us/Best-YouTube-DSci…",8,457,"1,378"
+Jack Forge@TheJackForge·Jul 26,2023-07-26T13:06:33.000Z,"I apologize if I have ever said anything bad about Python.
 
-[ Thread ]"
-Benjamin Bennett Alexander@RealBenjizo·21h,2023-07-19T18:30:33.000Z,"Python Question;
+It is quickly becoming my favorite programming language to work with.",207,141,"1,927"
+xpression camera@xpression_app,,"The only real-time generative AI app for video chatting, live streaming, and video creation.",460,377,"1,442"
+Python Coding@clcoding·7h,2023-07-27T07:22:00.000Z,Python Program to get details of an element by atomic number,3,58,303
+Python Developer@Python_Dv·Jul 26,2023-07-26T13:00:02.000Z,"Tkinter Designer Tutorial | How to Create Beautiful Python GUI in 10 Minutes
+#python #tkinter",7,112,347
+Domenico@AvatarDomy·8h,2023-07-27T06:06:54.000Z,The method this Python climbs a tree,1,16,54
+Sharyph@sharyph_·10h,2023-07-27T04:00:04.000Z,"Learn Data Analytics for Free:
 
-What is the output of this code, and why?"
-DailyStuff@DailyStuffMag,,People living in these cities would leave if they could. These are the most miserable cities in the country.
-Fatahrez@TheBandanaDev·Jul 18,2023-07-18T08:21:08.000Z,"I'm convinced people who pick python love peace of mind, finish tasks quickly and don't care what others think."
-AlphaFox@Alphafox78·14h,2023-07-20T01:51:08.000Z,What's your favorite Monty Python and the search for the holy grail line?
-Python Coding@clcoding·7h,2023-07-20T08:16:00.000Z,Day 157 : Get address and zip code using Python https://bit.ly/3Rr3OrM
-GREAT BIAFRA V-I-P@GREATBIAFRAVIP·20h,2023-07-19T19:51:04.000Z,"OKU DI OVER    
+SQL → http://sqlbolt.com
+Excel → http://excel-practice-online.com
+Tableau → https://mydataroad.com/how-to-create-effective-data-visualization-using-tableau/…
+Python → http://pythontutorial.net
+Data analysis → https://goldsuite.gumroad.com/l/jgrma
+BigQuery → http://cloudskillsboost.google/quests/123
+Statistics → http://youtu.be/xxpc-HPKN28",27,323,699
+Zulfiqar Ahmed @ZulfiqarAhmed69·Jul 22,2023-07-22T19:25:10.000Z,Python is such as an easy language to learn ,21,66,447
+,,,,,
+Dr. Ganapathi Pulipaka @gp_pulipaka·Jul 26,2023-07-26T06:26:01.000Z,"Best YouTube Channels for Data Science! #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode
+https://geni.us/Best-YouTube-DSci…",8,457,"1,378"
+Jack Forge@TheJackForge·Jul 26,2023-07-26T13:06:33.000Z,"I apologize if I have ever said anything bad about Python.
 
-53 PYTHON HAVE BEEN SENT TO JUDGMENT IN BIAFRALAND. OPERATION PYTHON MUST GO TO JUDGEMENT. OSETIGO "
-Science And Nature@InterestingSci1·Jul 16,2023-07-16T18:45:38.000Z,An Indian rock python lurking beneath the water surface.
-,,
-Benjamin Bennett Alexander@RealBenjizo·21h,2023-07-19T18:30:33.000Z,"Python Question;
+It is quickly becoming my favorite programming language to work with.",207,141,"1,927"
+xpression camera@xpression_app,,"The only real-time generative AI app for video chatting, live streaming, and video creation.",460,377,"1,442"
+Python Coding@clcoding·7h,2023-07-27T07:22:00.000Z,Python Program to get details of an element by atomic number,3,58,303
+Python Developer@Python_Dv·Jul 26,2023-07-26T13:00:02.000Z,"Tkinter Designer Tutorial | How to Create Beautiful Python GUI in 10 Minutes
+#python #tkinter",7,112,347
+Domenico@AvatarDomy·8h,2023-07-27T06:06:54.000Z,The method this Python climbs a tree,1,16,54
+Sharyph@sharyph_·10h,2023-07-27T04:00:04.000Z,"Learn Data Analytics for Free:
 
-What is the output of this code, and why?"
-DailyStuff@DailyStuffMag,,People living in these cities would leave if they could. These are the most miserable cities in the country.
-Fatahrez@TheBandanaDev·Jul 18,2023-07-18T08:21:08.000Z,"I'm convinced people who pick python love peace of mind, finish tasks quickly and don't care what others think."
-AlphaFox@Alphafox78·14h,2023-07-20T01:51:08.000Z,What's your favorite Monty Python and the search for the holy grail line?
-Python Coding@clcoding·7h,2023-07-20T08:16:00.000Z,Day 157 : Get address and zip code using Python https://bit.ly/3Rr3OrM
-GREAT BIAFRA V-I-P@GREATBIAFRAVIP·20h,2023-07-19T19:51:04.000Z,"OKU DI OVER    
+SQL → http://sqlbolt.com
+Excel → http://excel-practice-online.com
+Tableau → https://mydataroad.com/how-to-create-effective-data-visualization-using-tableau/…
+Python → http://pythontutorial.net
+Data analysis → https://goldsuite.gumroad.com/l/jgrma
+BigQuery → http://cloudskillsboost.google/quests/123
+Statistics → http://youtu.be/xxpc-HPKN28",27,323,699
+Zulfiqar Ahmed @ZulfiqarAhmed69·Jul 22,2023-07-22T19:25:10.000Z,Python is such as an easy language to learn ,21,66,447
+Python Space@python_spaces·2h,2023-07-27T12:20:09.000Z,"Microsoft is offering Data Science for Beginners course for FREE!
 
-53 PYTHON HAVE BEEN SENT TO JUDGMENT IN BIAFRALAND. OPERATION PYTHON MUST GO TO JUDGEMENT. OSETIGO "
-Science And Nature@InterestingSci1·Jul 16,2023-07-16T18:45:38.000Z,An Indian rock python lurking beneath the water surface.
-ABC7 Eyewitness News@ABC7·Jul 15,2023-07-15T15:00:11.000Z,A group of python hunters in Florida captured the longest female Burmese python in the state. The snake measured 19 feet long and 125 pounds. 
-Python Developer@Python_Dv·9m,2023-07-20T16:04:19.000Z,"How to Create Home Surveillance System Using Python
-#python"
-NEAR Protocol@NEARProtocol,,"#NEAR takeover at #ETHCC with #BOS! 
+This course all the necessary fundamentals of Data Science and Deep Learning. 
 
-Join us at the Museum National D’Histoire Naturelle for two full days of July 16-17th on RUST, Java-SDK and Solidity jamming !
+Course link ",1,28,117
+Benjamin Bennett Alexander@RealBenjizo·Jul 21,2023-07-21T18:02:37.000Z,"Python Question;
 
-Read more about it here - https://near.org/blog/near-at-ethcc-step-into-the-open-web-on-the-bos/?twclid=23safxm2tybopze7gzenhmw0cg…
-RSVP here: https://bit.ly/3qLjePR?twclid=23safxm2tybopze7gzenhmw0cg"
-Ezekiel@ezekiel_aleke·Jul 16,2023-07-16T18:34:03.000Z,"PowerBI
-Tableau
-Python
-Excel
-SQL
+Another function to wrap up the week 
 
-and
+Be very careful with this one.
 
-I"
-Joshua@CreeCoder·9h,2023-07-20T06:37:28.000Z,"Day 95 of #100DaysOfCode   
+What is the output of this code, and why?",56,52,418
+Benjamin Bennett Alexander@RealBenjizo·Jul 22,2023-07-22T19:05:14.000Z,"Python Question;
 
-Code Wars!
-Language: Python
-Level: 7 kyu
+What is the output of this code, and why?",213,142,877
+Python Developer@Python_Dv·19h,2023-07-26T19:20:00.000Z,"Speech Recognition with Python in 3 Lines of Code
+#python #openai",2,63,234
+Kirk Borne@KirkDBorne·Jul 26,2023-07-26T05:54:04.000Z,Download 157-page PDF >> “Introduction to Scientific Programming with #Python” at https://pyoflife.com/introduction-to-scientific-programming-with-python-pdf/… via @Parajulisaroj16,2,271,899
+Jean-Baptiste Lefevre@jblefevre60·20h,2023-07-26T18:10:59.000Z,"Data Science roadmap 2023!
 
- Your task is to write a function that takes a string and return a new string with all vowels removed to censor unwanted comments.
+#AI #MachineLearning #DeepLearning #DataScience #BigData #dataviz #GenerativeAI #Cloud #Python #Coding #100DaysOfCode #tech via @DataScienceDojo
+@CurieuxExplorer @PawlowskiMario @mvollmer1 @gvalan @ipfconline1 @LaurentAlaus @Shi4Tech @Fisher85M… Show more",3,40,67
+Kirk Borne@KirkDBorne·14h·,2023-07-26T23:56:35.000Z,"Download this FREE 388-page PDF ebook >> #Statistics and #MachineLearning in #Python: https://pyoflife.com/download-statistics-and-machine-learning-in-python/… via @Parajulisaroj16
+—————
+#BigData #DataScience #AI #DataScientists #StatisticalLiteracy #Coding",4,388,"1,261"
+Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
 
-For example, the string ""This website is for losers LOL!"" would become… Show more"
-Mike Driscoll@driscollis·3h,2023-07-20T13:00:31.000Z,"#Python Pop Quiz  
+1. Git & GitHub
+http://LearnGitBranching.js.org
 
-Does the following print True or False?"
-Akshay @akshay_pachaar·Jul 19,2023-07-19T12:30:19.000Z,"If you want to learn Data Science & ML from first principles, this platform is an absolute goldmine!
+2. HTML and CSS
+http://LearnHTMLCSS.online
 
-Highly engaging interactive learning material on:
+3. Python
+http://PythonTutorial.net
 
-- Python
-- Data Science
-- Machine Learning
-- Mathematics for ML
+4. React
+http://React-tutorial.app
 
-Here's what you need to know: "
-Not Going To Uni@notgoingtouni,,"Did you know that when you're not working on your day to day job at the RAF you could join their motorsports team?
+5. DS, Algo
+http://Visualgo.net/en
 
-Watch the RAF - Everything But The Job Live on demand on our YouTube channel now to find out more.
+6. JavaScript
+http://Learn-JS.org
 
-#Motorsports #youtube"
-tut_ml@tut_ml·12h,2023-07-20T03:25:18.000Z,"Check This Step-by-Step Data Analysis Roadmap-> https://mltut.com/data-analysis-with-python-roadmap/…
-#DataScientist #Programming #Coding #100DaysofCode #SQL #Python #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #TensorFlow #AI #AINews #sqltrain #SQLServer #Statistics #TensorFlow #pandas"
-Splendor @iam_Uchenna·Jul 16,2023-07-16T15:14:52.000Z,"FREE certification courses from Google:
+7. SQL… Show more",74,"1,155","2,640"
+Python Programming@PythonPr·6h,2023-07-27T08:31:00.000Z,"How to Read and Write Excel Files in Python
+#python",,29,110
+Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5,459,"1,742"
+Madza @madzadev·8h,2023-07-27T06:30:01.000Z,"5 FREE Courses by Google to Level up Your Skills 
 
-1. Fundamentals of Digital Marketing
-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing…
+1. Python
+https://developers.google.com/edu/python
 
-2. Data Science with Python
-https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python…
-
-3. Learn programming with JavaScript
+2. JavaScript
 https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript…
 
-4. Google Cloud Computing Foundations
-https://cloudskillsboost.google/course_templates/153…"
-Aisha Khalfan@_aishakhalfan·Jul 18,2023-07-18T21:02:16.000Z,"Highlight of the day Created a Python script that provides detailed stats about Nginx logs stored in MongoDB.  With this script, you can easily analyze your server logs and gain insights into your web traffic. "
-Syeda Sheraj Ali@Sheraj99·Jul 19,2023-07-19T14:26:18.000Z,How to choose Database #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #SQL
-Python Coding@clcoding·Jul 19,2023-07-19T02:06:41.000Z,Create Dummy Data using Python
-tut_ml@tut_ml·Jul 17,2023-07-17T03:20:02.000Z,"Learn Data Science with these FREE Courses-> https://mltut.com/best-coursera-courses-for-data-science/…
-#MachineLearning #100DaysOfCode #IoT #100DaysOfMLCode #Python #javascript #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity #BigData #Analytics #pythonprogramming #SQL"
-,,
-tut_ml@tut_ml·12h,2023-07-20T03:25:18.000Z,"Check This Step-by-Step Data Analysis Roadmap-> https://mltut.com/data-analysis-with-python-roadmap/…
-#DataScientist #Programming #Coding #100DaysofCode #SQL #Python #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #TensorFlow #AI #AINews #sqltrain #SQLServer #Statistics #TensorFlow #pandas"
-Splendor @iam_Uchenna·Jul 16,2023-07-16T15:14:52.000Z,"FREE certification courses from Google:
-
-1. Fundamentals of Digital Marketing
-https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing…
-
-2. Data Science with Python
+3. Data Science
 https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python…
 
-3. Learn programming with JavaScript
+4. Machine learning
+http://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course…
+
+5. Digital marketing
+http://learndigital.withgoogle.com/digitalgarage/course/digital-marketing…",16,205,501
+Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2,12,129
+Michael Warburton@MichaelWarbur17·Jul 22,2023-07-22T19:07:49.000Z,"“Alright, we’ll call it a draw.”
+
+MONTY PYTHON AND THE HOLY GRAIL (1975)
+
+#JohnCleese #GrahamChapman",40,363,"1,807"
+Shrimp @SteelBallPython·Jul 21,2023-07-21T17:18:36.000Z,"One ticket to Barbie, please",31,338,"2,139"
+,,,,,
+Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
+
+1. Git & GitHub
+http://LearnGitBranching.js.org
+
+2. HTML and CSS
+http://LearnHTMLCSS.online
+
+3. Python
+http://PythonTutorial.net
+
+4. React
+http://React-tutorial.app
+
+5. DS, Algo
+http://Visualgo.net/en
+
+6. JavaScript
+http://Learn-JS.org
+
+7. SQL… Show more",74,"1,155","2,640"
+Python Programming@PythonPr·6h,2023-07-27T08:31:00.000Z,"How to Read and Write Excel Files in Python
+#python",,29,110
+Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5,459,"1,742"
+Madza @madzadev·8h,2023-07-27T06:30:01.000Z,"5 FREE Courses by Google to Level up Your Skills 
+
+1. Python
+https://developers.google.com/edu/python
+
+2. JavaScript
 https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript…
 
-4. Google Cloud Computing Foundations
-https://cloudskillsboost.google/course_templates/153…"
-Aisha Khalfan@_aishakhalfan·Jul 18,2023-07-18T21:02:16.000Z,"Highlight of the day Created a Python script that provides detailed stats about Nginx logs stored in MongoDB.  With this script, you can easily analyze your server logs and gain insights into your web traffic. "
-Syeda Sheraj Ali@Sheraj99·Jul 19,2023-07-19T14:26:18.000Z,How to choose Database #BigData #Analytics #DataScience #AI #MachineLearning #IoT #IIoT #Python #RStats #TensorFlow #Java #JavaScript #ReactJS #GoLang #CloudComputing #Serverless #DataScientist #Linux #Programming #Coding #100DaysofCode #SQL
-Python Coding@clcoding·Jul 19,2023-07-19T02:06:41.000Z,Create Dummy Data using Python
-tut_ml@tut_ml·Jul 17,2023-07-17T03:20:02.000Z,"Learn Data Science with these FREE Courses-> https://mltut.com/best-coursera-courses-for-data-science/…
-#MachineLearning #100DaysOfCode #IoT #100DaysOfMLCode #Python #javascript #Serverless #womenwhocode #cybersecurity #RStats #CodeNewbie #DataScience #DEVCommunity #BigData #Analytics #pythonprogramming #SQL"
-Pushkaraj Kulkarni@pushkaraj2007·10h,2023-07-20T05:58:57.000Z,"Language I'm confident speaking with:
+3. Data Science
+https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python…
 
-Marathi
+4. Machine learning
+http://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course…
 
-Hindi
+5. Digital marketing
+http://learndigital.withgoogle.com/digitalgarage/course/digital-marketing…",16,205,501
+Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2,12,129
+Michael Warburton@MichaelWarbur17·Jul 22,2023-07-22T19:07:49.000Z,"“Alright, we’ll call it a draw.”
 
-English
+MONTY PYTHON AND THE HOLY GRAIL (1975)
 
-Python
+#JohnCleese #GrahamChapman",40,363,"1,807"
+Shrimp @SteelBallPython·Jul 21,2023-07-21T17:18:36.000Z,"One ticket to Barbie, please",31,338,"2,139"
+,,,,,
+Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
 
-JavaScript
+1. Git & GitHub
+http://LearnGitBranching.js.org
 
-What about you?"
-Wynn Westmoreland CNN@WynnWs·Jul 14,2023-07-14T21:56:31.000Z,"A group of hunters captured the longest Burmese python ever documented in Florida, measuring 19 feet long
+2. HTML and CSS
+http://LearnHTMLCSS.online
 
-https://cnn.com/videos/us/2023/07/13/longest-burmese-python-captured-florida-cprog-orig-ht-aw.cnn…"
-NEAR Protocol@NEARProtocol,,"Say hello to the BOS  
+3. Python
+http://PythonTutorial.net
 
-Saluda al BOS
+4. React
+http://React-tutorial.app
 
-Nói lời chào với BOS
+5. DS, Algo
+http://Visualgo.net/en
 
-BOS에게 인사하기
+6. JavaScript
+http://Learn-JS.org
 
-Передайте привет БОС
+7. SQL… Show more",74,"1,155","2,640"
+Python Programming@PythonPr·6h,2023-07-27T08:31:00.000Z,"How to Read and Write Excel Files in Python
+#python",,29,110
+Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5,459,"1,742"
+Madza @madzadev·8h,2023-07-27T06:30:01.000Z,"5 FREE Courses by Google to Level up Your Skills 
 
---
-The Blockchain Operating System is for everyone.
+1. Python
+https://developers.google.com/edu/python
 
-Heading to #Consensus2023? Find out more about it and what it means for #Web3 
-https://near.org/consensus?twclid=21sxnr2a6qfj2jej5o5r6lihxk"
-Aakash Kanojiya@Kanojiyaaakash1·Jul 17,2023-07-17T05:54:00.000Z,"Free Certification Courses from MIT University
-1. Introduction to Computational Thinking and Data Sciencehttps://edx.org/course/introduction-to-computational-thinking-and-data-4
-2. Introduction to Computer Science and Programming Using Python
-https://edx.org/course/introduction-to-computer-science-and-programming-7
-3. Machine Learning with Python: from Linear Models to… Show more"
-Jaydeep@_jaydeepkarale·Jul 16,2023-07-16T12:12:29.000Z," x 
+2. JavaScript
+https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript…
 
-Want to deploy your Python app easily and consistently across multiple environments?
+3. Data Science
+https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python…
 
-Dockerize it 
+4. Machine learning
+http://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course…
 
-Here's a step-by-step guide to get you started 
+5. Digital marketing
+http://learndigital.withgoogle.com/digitalgarage/course/digital-marketing…",16,205,501
+Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2,12,129
+Michael Warburton@MichaelWarbur17·Jul 22,2023-07-22T19:07:49.000Z,"“Alright, we’ll call it a draw.”
 
-Image Source ~ Google"
-Dr. Khulood Almani|د.خلود المانع@Khulood_Almani·Jul 18,2023-07-18T12:17:19.000Z,"What is the potential of #IoT by 2025
+MONTY PYTHON AND THE HOLY GRAIL (1975)
 
-v/ @gsma
-#IIoT #AI #Cloud #Blockchain #WEB3 #5G #ML #MachineLearning #Analytics #Python #GenerativeAI #ChatGPT #Robotics #ehealth #Technology #Robots #DataScience #CloudComputing #Robotics #VR #Bigdata #programming #tech #innovation… Show more"
-"Christina N. Zdenek, PhD@CNZdenek·Jul 14",2023-07-14T11:55:44.000Z,Yellow juvenile Green Python adorable goodness . Agreed?
-Michael Warburton@MichaelWarbur17·Jul 19,2023-07-19T11:42:44.000Z,"Behind the scenes on 
+#JohnCleese #GrahamChapman",40,363,"1,807"
+Shrimp @SteelBallPython·Jul 21,2023-07-21T17:18:36.000Z,"One ticket to Barbie, please",31,338,"2,139"
+,,,,,
+Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
 
-MONTY PYTHON AND THE HOLY GRAIL (1975)"
-CopernicAI@copernicai,,Try out Generative AI for 360° images. Free prompt available now.
-millie@millieadamsx·Jul 18,2023-07-18T20:36:59.000Z,sourced these vintage Gucci by Tom Ford spring 1997 python boots 
-Oludayo Sokunbi (Deewon)@Oludeewon·Jul 18,2023-07-18T00:41:45.000Z,"EXCEL, SQL AND PYTHON FOR DATA ANALYSTS: FREE LEARNING RESOURCES WITH PROJECTS
+1. Git & GitHub
+http://LearnGitBranching.js.org
 
-There are three key areas you have to excel at: excel, SQL and Python.
+2. HTML and CSS
+http://LearnHTMLCSS.online
 
-In this post, you are going to find links through which you will access courses, tutorials and projects in the following areas:… Show more"
-Otto Sumray@osumray·23h,2023-07-19T16:27:24.000Z,Starting a new TDA project? Need persistent homology on cubical complexes and a custom filtration in C++? Or just a Rips filtration but in parallel and using Python? Wading through all those repos giving you a headache? 1/3
- Tech guy@python_fili·19h,2023-07-19T21:06:22.000Z,Andrew Tate when he sees a 16yo high school girl 
-Biafra Libration@ROZ_BIAFRAARMY·Jul 19,2023-07-19T12:52:03.000Z,"53 PYTHON HAVE BEEN SENT TO JUDGMENT,
-B.L.A=53
-ZOO = 0
+3. Python
+http://PythonTutorial.net
 
-SIGNED
-ROZ
-B.L.A"
-Lamine Mbacke@laminembackee·Jul 17,2023-07-17T13:18:33.000Z,"If you don't know how to write CLEAN CODE. 
+4. React
+http://React-tutorial.app
 
-I'm here to save you!
+5. DS, Algo
+http://Visualgo.net/en
 
-I've made a Notion guide with everything you need to write better code.
+6. JavaScript
+http://Learn-JS.org
 
- Python, Kotlin, Java, JS, Swift, and Dart 
+7. SQL… Show more",74,"1,155","2,640"
+Python Programming@PythonPr·6h,2023-07-27T08:31:00.000Z,"How to Read and Write Excel Files in Python
+#python",,29,110
+Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5,459,"1,742"
+Madza @madzadev·8h,2023-07-27T06:30:01.000Z,"5 FREE Courses by Google to Level up Your Skills 
 
-Just follow, reply 'DM', and I'll send it to you.
+1. Python
+https://developers.google.com/edu/python
 
-Only to the first 200 people."
-,,
-Michael Warburton@MichaelWarbur17·Jul 19,2023-07-19T11:42:44.000Z,"Behind the scenes on 
+2. JavaScript
+https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript…
 
-MONTY PYTHON AND THE HOLY GRAIL (1975)"
-CopernicAI@copernicai,,Try out Generative AI for 360° images. Free prompt available now.
-millie@millieadamsx·Jul 18,2023-07-18T20:36:59.000Z,sourced these vintage Gucci by Tom Ford spring 1997 python boots 
-Oludayo Sokunbi (Deewon)@Oludeewon·Jul 18,2023-07-18T00:41:45.000Z,"EXCEL, SQL AND PYTHON FOR DATA ANALYSTS: FREE LEARNING RESOURCES WITH PROJECTS
+3. Data Science
+https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python…
 
-There are three key areas you have to excel at: excel, SQL and Python.
+4. Machine learning
+http://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course…
 
-In this post, you are going to find links through which you will access courses, tutorials and projects in the following areas:… Show more"
-Otto Sumray@osumray·23h,2023-07-19T16:27:24.000Z,Starting a new TDA project? Need persistent homology on cubical complexes and a custom filtration in C++? Or just a Rips filtration but in parallel and using Python? Wading through all those repos giving you a headache? 1/3
- Tech guy@python_fili·19h,2023-07-19T21:06:22.000Z,Andrew Tate when he sees a 16yo high school girl 
-Biafra Libration@ROZ_BIAFRAARMY·Jul 19,2023-07-19T12:52:03.000Z,"53 PYTHON HAVE BEEN SENT TO JUDGMENT,
-B.L.A=53
-ZOO = 0
+5. Digital marketing
+http://learndigital.withgoogle.com/digitalgarage/course/digital-marketing…",16,205,501
+Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2,12,129
+Michael Warburton@MichaelWarbur17·Jul 22,2023-07-22T19:07:49.000Z,"“Alright, we’ll call it a draw.”
 
-SIGNED
-ROZ
-B.L.A"
-Lamine Mbacke@laminembackee·Jul 17,2023-07-17T13:18:33.000Z,"If you don't know how to write CLEAN CODE. 
+MONTY PYTHON AND THE HOLY GRAIL (1975)
 
-I'm here to save you!
+#JohnCleese #GrahamChapman",40,363,"1,807"
+Shrimp @SteelBallPython·Jul 21,2023-07-21T17:18:36.000Z,"One ticket to Barbie, please",31,338,"2,139"
+,,,,,
+Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
 
-I've made a Notion guide with everything you need to write better code.
+1. Git & GitHub
+http://LearnGitBranching.js.org
 
- Python, Kotlin, Java, JS, Swift, and Dart 
+2. HTML and CSS
+http://LearnHTMLCSS.online
 
-Just follow, reply 'DM', and I'll send it to you.
+3. Python
+http://PythonTutorial.net
 
-Only to the first 200 people."
-Akshay @akshay_pachaar·Jul 16,2023-07-16T12:30:03.000Z,"Harvard university is offering FREE world class education in Data Science!
+4. React
+http://React-tutorial.app
 
-Courses cover:
-- Python
-- Data Visualization
-- Probability
-- Statistics
-- Machine Learning
-- Data Science: Capstone
+5. DS, Algo
+http://Visualgo.net/en
 
-A project-based pedagogy that allows you to learn while building! 
+6. JavaScript
+http://Learn-JS.org
 
-Read more!"
-Alamin@iam_chonchol·8h,2023-07-20T07:16:34.000Z,"Google is offering free online courses with certification.
+7. SQL… Show more",74,"1,155","2,640"
+Python Programming@PythonPr·6h,2023-07-27T08:31:00.000Z,"How to Read and Write Excel Files in Python
+#python",,29,110
+Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5,459,"1,742"
+Madza @madzadev·8h,2023-07-27T06:30:01.000Z,"5 FREE Courses by Google to Level up Your Skills 
 
-Here are 12 FREE Google courses to become skilled in 2023 [ Thread ]:
+1. Python
+https://developers.google.com/edu/python
 
-1. Data Science with Python.
-http://simplilearn.com/getting-started-data-science-with-python-skillup…
+2. JavaScript
+https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript…
 
-2. Basics of Machine Learning.
-http://learndigital.withgoogle.com/digitalunlocked/course/data-science-foundations…
+3. Data Science
+https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python…
 
-3. Machine Learning Crash Course.… Show more"
-E.ON Innovation@innovation_eon,,"As cities  heat up, #UrbanHeatIslands pose a growing challenge!  Luckily, there's an innovative solution that might help cool things down. 
+4. Machine learning
+http://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course…
 
-Discover how E.ON is redefining the simple concept of #districtcooling in cities like #Athens, #Milan & #Miami:"
-Adarsh Chetan@AdarshChetan·Jul 18,2023-07-18T13:30:42.000Z,"Harvard university is offering FREE world class Certification Courses in Data Science!
+5. Digital marketing
+http://learndigital.withgoogle.com/digitalgarage/course/digital-marketing…",16,205,501
+Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2,12,129
+Michael Warburton@MichaelWarbur17·Jul 22,2023-07-22T19:07:49.000Z,"“Alright, we’ll call it a draw.”
 
-Courses cover:
-Python
-Data Visualization
-Probability
-Statistics
-Machine Learning
-Data Science: Capstone
+MONTY PYTHON AND THE HOLY GRAIL (1975)
 
-A project-based Teaching strategies that allows you to learn while… Show more"
-Prince Python@APrincePython·1h,2023-07-20T14:40:14.000Z,"New colored page for Powergirl and Superboy, wanted some laughs.
+#JohnCleese #GrahamChapman",40,363,"1,807"
+Shrimp @SteelBallPython·Jul 21,2023-07-21T17:18:36.000Z,"One ticket to Barbie, please",31,338,"2,139"
+,,,,,
+Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
 
-Superboy:  ""I found this one all by itself behind the others, I gotta say Aunt Karen your manga collection is pretty... interesting! This is way different than Naruto!""
+1. Git & GitHub
+http://LearnGitBranching.js.org
 
-Powergirl: *Gasp* ""Oh no not that one!"""
-I D R I S @ EthCC@olanetsoft·50m,2023-07-20T15:23:34.000Z,"Randomly remembered an advice someone gave me years ago.
+2. HTML and CSS
+http://LearnHTMLCSS.online
 
-He said, ""I know you're only familiar with Python, but accept the internship opportunity as a C# Developer. Take a leap of faith, and don't let this chance slip away. You never know how far you can go until you try."""
-Big Data Analytics News@BDAnalyticsnews·Jul 16,2023-07-16T15:32:18.000Z,"Analytics terms for beginners
+3. Python
+http://PythonTutorial.net
 
-#ArtificialIntelligence #AI #ML #DataScience #DataScientists #CodeNewbies #Tech #deeplearning #CyberSecurity #Python #Coding #javascript #rstats #100DaysOfCode #programming #Linux #IoT #IIoT #BigData"
-millie@millieadamsx·Jul 18,2023-07-18T09:35:38.000Z,just found these pics of Yasmin Le Bon in Gucci by Tom Ford spring 1996 python boots I sourced 
-freedom must come@UcheMamah3·Jul 18,2023-07-18T19:44:55.000Z,"44 PYTHON SENT TO JUDGMENT,YOU MUST PUT A CALL ACROSS TO YOUR FAMILY TO PEND GOING TO BUSH FOR JUST FEW DAYS,D BUSH IS DANGEROUS NOW PLS I BEG OF U,THEY CANT EVEN WAIT TILL THE COMMENCEMENT OF THE TWO WEEKS SIT AT HOME, BECAUSE THEY ARE IN HORRY TO INVADE BIAFRA LAND,44 IS GONE"
-Gary Sinyor@garysinyor,,The point of satire is no-one is safe #aprilfools #hapless
-Lex Fridman@lexfridman·Jul 14,2023-07-14T10:49:22.000Z,"If I win, I will give all winnings to a randomly selected liker of this comment (picked by Python script)"
-Simon Boehm@Si_Boehm·17h,2023-07-19T23:01:08.000Z,"June GPT-4 started surrounding code with ```python markdown, which you didn't strip. I forked your code, removed that markdown, and re-submitted the output to Leetcode for judging. Now the June version does significantly better than the march version of GPT-4."
-Bruhhh@ImaClient1·Jul 19,2023-07-19T05:04:55.000Z,"lf commissioner
-python, programming, coding, comsci
-Due July 23
-drop rates asap"
-Noe_Wenc @Vet_doctor87·19h,2023-07-19T20:57:21.000Z,"Tech related issues for a Vet is like forcing a hog to fly 
-It’s 150 Days of Coding and Programming, currently will be doing Python + HTML & CSS ( 45/150)"
-The Brutal Side Of Nature@TheBrutalNature·Jul 17,2023-07-17T09:05:50.000Z,Large Olive Python pulling prey out of the water.
-Jake Williams@MalwareJake·Jul 14,2023-07-14T14:05:08.000Z,Python.exe has encountered an exception...
-,,
-freedom must come@UcheMamah3·Jul 18,2023-07-18T19:44:55.000Z,"44 PYTHON SENT TO JUDGMENT,YOU MUST PUT A CALL ACROSS TO YOUR FAMILY TO PEND GOING TO BUSH FOR JUST FEW DAYS,D BUSH IS DANGEROUS NOW PLS I BEG OF U,THEY CANT EVEN WAIT TILL THE COMMENCEMENT OF THE TWO WEEKS SIT AT HOME, BECAUSE THEY ARE IN HORRY TO INVADE BIAFRA LAND,44 IS GONE"
-Gary Sinyor@garysinyor,,The point of satire is no-one is safe #aprilfools #hapless
-Lex Fridman@lexfridman·Jul 14,2023-07-14T10:49:22.000Z,"If I win, I will give all winnings to a randomly selected liker of this comment (picked by Python script)"
-Simon Boehm@Si_Boehm·17h,2023-07-19T23:01:08.000Z,"June GPT-4 started surrounding code with ```python markdown, which you didn't strip. I forked your code, removed that markdown, and re-submitted the output to Leetcode for judging. Now the June version does significantly better than the march version of GPT-4."
-Bruhhh@ImaClient1·Jul 19,2023-07-19T05:04:55.000Z,"lf commissioner
-python, programming, coding, comsci
-Due July 23
-drop rates asap"
-Noe_Wenc @Vet_doctor87·19h,2023-07-19T20:57:21.000Z,"Tech related issues for a Vet is like forcing a hog to fly 
-It’s 150 Days of Coding and Programming, currently will be doing Python + HTML & CSS ( 45/150)"
-The Brutal Side Of Nature@TheBrutalNature·Jul 17,2023-07-17T09:05:50.000Z,Large Olive Python pulling prey out of the water.
-Jake Williams@MalwareJake·Jul 14,2023-07-14T14:05:08.000Z,Python.exe has encountered an exception...
-MyFWC@MyFWC·3h,2023-07-20T12:32:38.000Z,"The Commission recognizes Brandon Rahe, who removed a python and nest on July 7 in Everglades Francis S. Taylor WMA. The record nest had 111 eggs! Brandon is a contractor with the FWC's Python Action Team - Removing Invasive Constrictors (PATRIC). #FWC2023"
-IcyPython@PythonIcy·Jul 15,2023-07-15T20:17:12.000Z,A quick one #RWBY
-WolfVision Worldwide@WolfVision_EU,,Ready to take your conference room to the next level?  Check out these 8 essential tips for choosing the perfect conference room technology!  Elevate your meetings with @WolfVisionHQ  #conference #technology #business
-Khalil Afridi@khalilApriday·Jul 17,2023-07-17T07:59:00.000Z,"FREE Courses on
-- Python
-- Data Visualization
-- Probability
-- Statistics
-- Machine Learning
-- Data Science: Capstone
-"
-Biafra Libration@ROZ_BIAFRAARMY·Jul 16,2023-07-16T22:44:06.000Z,"ZOO GOVERNMENT 122 + 8 JUST NOW IS HOW MANY, YOU SAID ROZ SHOULD NOT ANNOUNCE B.L.A ACHIEVEMENTS, WE MUST DO IT NOW AND FOREVER,122 + 8 PYTHON SENT TO JUDGMENT,WE HAVEN'T GOTTEN TO 31 FIRST JULY WE ARE HEATING THE GROUND RUNNING
+4. React
+http://React-tutorial.app
 
-SIGN 
-ROZ 
-B.L.A"
-Machine Learning Community @c4ml_·Jul 19,2023-07-19T06:18:06.000Z,"Best Youtube channels for Data Science & Machine Learning
+5. DS, Algo
+http://Visualgo.net/en
 
- Python ➟ Corey Schafer
+6. JavaScript
+http://Learn-JS.org
 
- SQL ➟ We Learn SQL
+7. SQL… Show more",74,"1,155","2,640"
+Python Programming@PythonPr·6h,2023-07-27T08:31:00.000Z,"How to Read and Write Excel Files in Python
+#python",,29,110
+Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5,459,"1,742"
+Madza @madzadev·8h,2023-07-27T06:30:01.000Z,"5 FREE Courses by Google to Level up Your Skills 
 
- Statistics and ML ➟ StatQuest with Josh Starmer
+1. Python
+https://developers.google.com/edu/python
 
- Mathematics ➟ 3Blue1Brown
+2. JavaScript
+https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript…
 
- Data Anlaytics ➟ Luke Barousse
+3. Data Science
+https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python…
 
- Machine Learning ➟ Deeplearning AI"
-Socially Recruited@socialrecruited,,"We're G4S, the world leader in supporting the needs of local, national and global businesses. We're looking for people who can support Cheltenham's largest employer in various customer-facing roles."
-Daily Dark Web@DailyDarkWeb·7h,2023-07-20T08:32:31.000Z," #Python  Pentest Cheat Sheet
+4. Machine learning
+http://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course…
 
-Credit:@LIFARSLLC
-#programming #cybersecurity"
-AdityA(i) Patro #TechForGood@TheAdityaPatro·13h,2023-07-20T03:08:41.000Z,The World's Most Valuable Football Brand v/@VisualCap #OPENAI #GenerativeAI #ChatGPT #DataScientist #Tech #BigData #Analytics #innovation #Crypto #MachineLearning #TensorFlow #coding #IoT #100DaysOfCode #NodeJS #Python #Metaverse #web3 #Blockchain #Fintech #NodeJS #HealthTech… Show more
-Python Developer@Python_Dv·6h,2023-07-20T09:30:01.000Z,"Real-Time Face Emotion Recognition with TensorFlow and Transfer Learning in Python
-#python #tensorflow"
-SHINSKI@miondokoo·Jul 14,2023-07-14T16:37:16.000Z,"Reach out @Liberty_stores as they add value to your home at a better price tag
-FOR ORDERS
-Call/App 0722948285
-Delivery countrywide
+5. Digital marketing
+http://learndigital.withgoogle.com/digitalgarage/course/digital-marketing…",16,205,501
+Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2,12,129
+Michael Warburton@MichaelWarbur17·Jul 22,2023-07-22T19:07:49.000Z,"“Alright, we’ll call it a draw.”
 
-Benjamin Mendy Raila Jurrien Timber The UN Wednesday to Friday Ajax Kenyans Ruto Oriwo boys FEAR WOMEN Tyler Mbaya Oprah  NOT GUILTY Python"
-Jennifer@fivi187·10h,2023-07-20T05:34:48.000Z,Day 31 … Revising and practicing the basics again because my brain isn’t working as before  #Python #100DaysOfCode #100daysofcoding #100daysofcodechallenge #40yearswoman #techtwitter #womenintech #WomenWhoCode
-mustafa@mustafat0run·21h,2023-07-19T18:14:24.000Z,"JavaScript first appeared 1995
-Java first appeared 1995
-Python reached version 1.0 in January 1994 
-PHP was introduced on 8 June 1995
-Ruby first appeared in 1995
-Delphi  February 1995
-How JavaScript and Python are new, Delphi  and Pascal are old. How come? by @marcocantu"
-,,
+MONTY PYTHON AND THE HOLY GRAIL (1975)
+
+#JohnCleese #GrahamChapman",40,363,"1,807"
+Shrimp @SteelBallPython·Jul 21,2023-07-21T17:18:36.000Z,"One ticket to Barbie, please",31,338,"2,139"
+,,,,,
+Muzzammil@DevMuzzammil·Jul 21,2023-07-21T06:36:41.000Z,"Learn for free in 2023:
+
+1. Git & GitHub
+http://LearnGitBranching.js.org
+
+2. HTML and CSS
+http://LearnHTMLCSS.online
+
+3. Python
+http://PythonTutorial.net
+
+4. React
+http://React-tutorial.app
+
+5. DS, Algo
+http://Visualgo.net/en
+
+6. JavaScript
+http://Learn-JS.org
+
+7. SQL… Show more",74,"1,155","2,640"
+Python Programming@PythonPr·6h,2023-07-27T08:31:00.000Z,"How to Read and Write Excel Files in Python
+#python",,29,110
+Ezekiel@ezekiel_aleke·Jul 23,2023-07-23T17:27:10.000Z,4 Python cheat sheets that will 10X your learning rate,5,459,"1,742"
+Madza @madzadev·8h,2023-07-27T06:30:01.000Z,"5 FREE Courses by Google to Level up Your Skills 
+
+1. Python
+https://developers.google.com/edu/python
+
+2. JavaScript
+https://learndigital.withgoogle.com/digitalgarage/course/learn-programming-with-javascript…
+
+3. Data Science
+https://learndigital.withgoogle.com/digitalunlocked/course/data-science-with-python…
+
+4. Machine learning
+http://learndigital.withgoogle.com/digitalunlocked/course/machine-learning-crash-course…
+
+5. Digital marketing
+http://learndigital.withgoogle.com/digitalgarage/course/digital-marketing…",16,205,501
+Humans Are Metal@HumanAreMetal·Jul 24,2023-07-24T15:43:19.000Z,Capturing a python,2,12,129
+Michael Warburton@MichaelWarbur17·Jul 22,2023-07-22T19:07:49.000Z,"“Alright, we’ll call it a draw.”
+
+MONTY PYTHON AND THE HOLY GRAIL (1975)
+
+#JohnCleese #GrahamChapman",40,363,"1,807"
+Shrimp @SteelBallPython·Jul 21,2023-07-21T17:18:36.000Z,"One ticket to Barbie, please",31,338,"2,139"
+,,,,,
